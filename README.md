@@ -34,13 +34,15 @@
 ---
 <h2 align="center">🚀 Principais projetos</h2>
 
-- 🔧 **AjudAki** — Sistema de apoio à prestação de serviços, com autenticação, MVC, C# e .NET  
+- 🔧 [**AjudAki**](https://github.com/marcosdosea/AjudAki) — Sistema de apoio à prestação de serviços, com autenticação, MVC, C# e .NET  
 - 🧠 **PIBIC - Interatividade por gestos** — Reconhecimento de imagens com Python e ESP32-CAM  
-- 🌱 **Smart Sala** — Automação de salas com ESP32, sensores e interface web  
-- 🎯 **Bingo Online** — Jogo multiplayer com sockets, sorteio automático e responsividade  
-- 🌐 **Sites WordPress** — Projetos para web com foco em inclusão e acessibilidade
+- 🌱 [**Smart Sala**](https://github.com/fabricadesoftwareufs/AutomacaoSalasControlador) — Automação de salas com ESP32, sensores e interface web  
+- 🎯 [**Bingo Online**](https://github.com/MarlyssonSD/Bingo-Online) — Jogo multiplayer com sockets, sorteio automático e responsividade
+- 🎮 [**Little Games**](https://github.com/MarlyssonSD/Little-Games) — Coleção de mini games feitos pygame 
+- 📊 [**Projeto de LFT**](https://github.com/MarlyssonSD/Projeto-de-LFT) — Sistema de análise para Linguagens Formais e Teoria de Autômatos  
+- 🗺️ [**Rotas da UFS**](https://github.com/MarlyssonSD/Rotas-Da-UFS) — Aplicação para visualização e cadastro de rotas no campus da UFS
+- 🌐 [**Sites WordPress**](http://g2psi.educacao.ws/) — Projetos para web com foco em inclusão e acessibilidade
 
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
