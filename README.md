@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Marlysson 👋</h1>
 
-💻 Estudante de <strong>Sistemas de Informação</strong> na UFS <br>
+💻 Profissional de <strong>Sistemas de Informação</strong> na UFS <br>
 👾 Apaixonado por <strong>tecnologia, inovação</strong> e <strong>resolução de problemas</strong> <br>
 🌐 Foco em <strong>desenvolvimento web</strong>, <strong>automação</strong> e <strong>sistemas inteligentes</strong> <br>
-📚 Curioso por natureza e sempre buscando aprender, evoluir, adaptar , dividir e conquistar!
+📚 Curioso por natureza e sempre buscando aprender, evoluir, adaptar, dividir e conquistar!
 </p>
 
 ---
