@@ -2,7 +2,7 @@
 
 💻 Profissional de <strong>Sistemas de Informação</strong> <br>
 👾 Apaixonado por <strong>tecnologia, inovação</strong> e <strong>resolução de problemas</strong> <br>
-🌐 Foco em <strong>desenvolvimento web</strong>, <strong>automação</strong> e <strong>sistemas inteligentes</strong> <br>
+🌐 Foco em <strong>desenvolvimento Web/WebAPI</strong>, <strong>automação</strong> e <strong>sistemas inteligentes</strong> <br>
 📚 Curioso por natureza e sempre buscando aprender, evoluir, adaptar, dividir e conquistar!<br>
 🌐 [**Meu Portfólio**](https://marlyssonsd.github.io/) — Apresentação dos meus projetos, experiências e habilidades
 
