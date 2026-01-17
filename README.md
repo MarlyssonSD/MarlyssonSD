@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Marlysson 👋</h1>
 
-💻 Profissional de <strong>Sistemas de Informação</strong> na UFS <br>
+💻 Profissional de <strong>Sistemas de Informação</strong> <br>
 👾 Apaixonado por <strong>tecnologia, inovação</strong> e <strong>resolução de problemas</strong> <br>
 🌐 Foco em <strong>desenvolvimento web</strong>, <strong>automação</strong> e <strong>sistemas inteligentes</strong> <br>
 📚 Curioso por natureza e sempre buscando aprender, evoluir, adaptar, dividir e conquistar!<br>
@@ -11,7 +11,10 @@
 ---
 <h2 align="center">🛠️ Tecnologias, Ferramentas e Métodos</h2>
 
+![REST API](https://img.shields.io/badge/-REST%20API-006400?style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -19,12 +22,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL--Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-006400?style=flat)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=azure-devops&logoColor=white)
 
 ---
