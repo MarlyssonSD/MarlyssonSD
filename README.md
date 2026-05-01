@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Marlysson 👋</h1>
+<h1 align="center">Olá, eu sou Marlysson 👋</h1>
 
 💻 Profissional de <strong>Sistemas de Informação</strong> <br>
 👾 Apaixonado por <strong>tecnologia, inovação</strong> e <strong>resolução de problemas</strong> <br>
