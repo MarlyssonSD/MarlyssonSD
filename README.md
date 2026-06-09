@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Marlysson 👋</h1>
 
-💻 Profissional de <strong>Sistemas de Informação</strong> <br>
+💻 Desenvolvedor <strong>FullStack  | Bacharel </strong> em Sistemas de Informação <br>
 👾 Apaixonado por <strong>tecnologia, inovação</strong> e <strong>resolução de problemas</strong> <br>
 🌐 Foco em <strong>desenvolvimento Web/WebAPI</strong>, <strong>automação</strong> e <strong>sistemas inteligentes</strong> <br>
 📚 Curioso por natureza e sempre buscando aprender, evoluir, adaptar, dividir e conquistar!<br>
